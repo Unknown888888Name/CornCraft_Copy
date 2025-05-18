@@ -1,5 +1,6 @@
 This repository is for backup purposes only!!!!!!! Only the compiled version is released, and the code and instructions for this repository are old.
 本存储库仅为备份！！！！！！！！只发布编译的版本，这个存储库的代码是旧的。
+有些发布版会有动画bug，没办法
 English | [简体中文](README.zh-CN.md)
 
 # CornCraft
